@@ -9,3 +9,4 @@ else
 	num3=`expr $num1 - $num2`
 	echo $num3
 fi
+exit 0
