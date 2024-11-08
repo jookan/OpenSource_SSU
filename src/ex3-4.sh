@@ -13,3 +13,4 @@ case $answer in
 	*)
 		echo "yes or no로 대답해주세요"
 esac
+exit 0
