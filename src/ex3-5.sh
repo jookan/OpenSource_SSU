@@ -9,3 +9,4 @@ func_command()
 }
 
 func_command "ls -l"
+exit 0
