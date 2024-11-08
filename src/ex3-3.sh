@@ -13,3 +13,4 @@ elif [ "$(echo "$BMI >= 23" | bc -l)" -eq 1 ]; then
 else
 	echo "정상체중입니다."
 fi
+exit 0
